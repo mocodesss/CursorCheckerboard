@@ -1,0 +1,132 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  height: 100vh;
+  cursor: none;
+}
+
+body {
+  margin: 0 auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+  font-size: 0.85em;
+  text-align: center;
+}
+
+.focus-areas {
+  text-align: center;
+}
+
+h2 {
+  margin: 0;
+}
+
+.box-even {
+  background-color: #f7f7cf;
+}
+
+.box-odd {
+  background-color: #c1d343;
+}
+
+.box1 {
+  cursor: url(cursorimages/nemo.png), auto;
+}
+
+.box2 {
+  cursor: url("cursorimages/musicnote.png"), auto;
+}
+
+.box3 {
+  cursor: url("cursorimages/whitemoon.png"), auto;
+}
+
+.box4 {
+  cursor: url("cursorimages/ear.png"), auto;
+}
+
+.box5 {
+  cursor: url("cursorimages/bowandarrow.png"), auto;
+}
+
+.box6 {
+  cursor: url("cursorimages/supermario.png"), auto;
+}
+
+.box7 {
+  cursor: url("cursorimages/pawprint.png"), auto;
+}
+
+.box8 {
+  cursor: url("cursorimages/blueheart.png"), auto;
+}
+
+.box9 {
+  cursor: url("cursorimages/bow.png"), auto;
+}
+
+.box10 {
+  cursor: url("cursorimages/pokeball.png"), auto;
+}
+
+.box11 {
+  cursor: url("cursorimages/egg.png"), auto;
+}
+
+.box12 {
+  cursor: url("cursorimages/cactus.png"), auto;
+}
+
+.box13 {
+  cursor: url("cursorimages/flipflip.png"), auto;
+}
+
+.box14 {
+  cursor: url("cursorimages/orange.png"), auto;
+}
+
+.box15 {
+  cursor: url("cursorimages/pinkboot.png"), auto;
+}
+
+.box16 {
+  cursor: url("cursorimages/raindrop.png"), auto;
+}
+
+.box17 {
+  cursor: url("cursorimages/spongebob.png"), auto;
+}
+
+.box18 {
+  cursor: url("cursorimages/chili.png"), auto;
+}
+
+.box19 {
+  cursor: url("cursorimages/spade.png"), auto;
+}
+
+.box20 {
+  cursor: url("cursorimages/rill.png"), auto;
+}
+
+.box21 {
+  cursor: url("cursorimages/redskull.png"), auto;
+}
+
+.box22 {
+  cursor: url("cursorimages/hearteye.png"), auto;
+}
+
+.box23 {
+  cursor: url("cursorimages/mustache.png"), auto;
+}
+
+.box24 {
+  cursor: url("cursorimages/rainbowflower.png"), auto;
+}
+
+.box25 {
+  cursor: url("cursorimages/clippy.png"), auto;
+}
